@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  }
+}
